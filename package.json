@@ -1,0 +1,15 @@
+{
+  "name": "netzwerktechnik-quiz",
+  "version": "2.1.0",
+  "description": "Lokale Netzwerktechnik Lern- und Quiz-App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "docx": "^9.6.1",
+    "express": "^5.2.1"
+  }
+}
